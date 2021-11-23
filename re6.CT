@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Last stand Time"</Description>
+      <VariableType>Float</VariableType>
+      <Address>"BH6.exe"+014621FC</Address>
+      <Offsets>
+        <Offset>1FCC</Offset>
+        <Offset>B88</Offset>
+        <Offset>1028</Offset>
+        <Offset>80</Offset>
+        <Offset>34</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
